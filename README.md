@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  Projeto desenvolvido durante curso da Rock
+  Projeto desenvolvido durante curso da Rocketseat
 </p>
 
 <p align="center">
